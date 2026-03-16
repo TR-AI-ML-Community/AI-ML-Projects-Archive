@@ -17,7 +17,7 @@ jupyter notebook blood_cell_model.ipynb
 Projede ana model olarak `RandomForestClassifier` (max_depth=5, n_estimators=5) kullanılmıştır. Logistic Regression da test edilmiş ancak bu veri setinde Random Forest daha iyi sonuç vermiştir.
 
 - **Doğruluk:** %97.5
-- **F1-Score:** Belirtilmedi
+- **F1-Score:** %96-%92
 
 ## Geliştirici
 YigitIbatBalta - @Destroyer307
