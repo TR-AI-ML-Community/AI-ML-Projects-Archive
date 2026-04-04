@@ -41,6 +41,11 @@ Projeler, makine öğrenmesi ana başlıkları altında kategorize edilmiştir:
 - Sınıflandırma algoritmaları (Logistic Regression, SVM, Decision Trees)
 - Ensemble yöntemleri (Random Forest, XGBoost, LightGBM)
 
+#### Projeler
+| Proje | Aciklama | Teknolojiler | Gelistirici |
+|-------|----------|--------------|-------------|
+| [Is Maas Tahmini](Supervised-Learning/Is-Maas-Tahmini-HalilIbrahimKutmur) | Kariyer ozellikleri ile maas tahmini (R2: 0.976, MAE: $4,583) | Python, Scikit-learn, Pandas | [@halilibrahimkutmur](https://github.com/halilibrahimkutmur) |
+
 ### Unsupervised Learning
 - Kümeleme (K-Means, DBSCAN, Hierarchical)
 - Boyut indirgeme (PCA, t-SNE, UMAP)
