@@ -11,7 +11,7 @@
 
 *Birlikte öğren, birlikte geliştir, birlikte büyü!*
 
-[Projeler](#içerik-yapısı) • [Katkı Sağla](CONTRIBUTING.md) • [Kurallar](#kurallar) • [Topluluk](#topluluk)
+ [Katkı Sağla](CONTRIBUTING.md) • [Kurallar](#kurallar) • [Topluluk](#topluluk)
 
 </div>
 
